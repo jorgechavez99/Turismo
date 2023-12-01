@@ -1,17 +1,88 @@
 * {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0;
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
     
 }
-body {
+
+.contenedor {
+    margin: 40px 40px 40px 40px;
+}
+
+header {
+
+    font-size: 4rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 90vw;
+    margin: 1%;
+
+
+}
+
+.imagenes {
+    width: 90vw;
+    display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+align-items: center;
+}
+
+
+figure {
+    
+    margin-top: 0;
+    width: 100%;
+            
+    }
+
+    img {
+
+        width: 100%;
+
+    }
+
+h2 {
+    background-color: rgb(56, 116, 194);
+    position: static;
+    margin: 0;
+    width: 100%;
+    height: 4vh;
+    color: white;
+    font-size: 5rem;
+    font-weight: normal;
+    
+}
+
+figcaption{
+    
+    box-sizing: border-box;
+    position: static;
+    width: 100%;
+    height: 4vh;
+    font-size: 4rem;
+    font-weight: normal;
+    
+}
+
+
+
+
+
+/*
+* {
+   
+   
+}
+.contenedor {
     padding: 20px;
 }
 
-#viaje1, #viaje2, #viaje3, #viaje4, #viaje5, #viaje6
+.viaje1, .viaje2, .viaje3, .viaje4, .viaje5, .viaje6
 
 {
 
 display: inline-block;
-/*margin: 10px;*/
 padding: 0;
 margin-bottom: 20px;
 
@@ -42,6 +113,8 @@ figcaption{
     position: static;
     
 }
+
+*/
 
 
 
