@@ -1,0 +1,47 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+body {
+    padding: 20px;
+}
+
+#viaje1, #viaje2, #viaje3, #viaje4, #viaje5, #viaje6
+
+{
+
+display: inline-block;
+/*margin: 10px;*/
+padding: 0;
+margin-bottom: 20px;
+
+}
+
+figure {
+    
+    margin-top: 0;
+    width: 400px;
+            
+    }
+
+h2 {
+    background-color: rgb(56, 116, 194);
+    margin: 0;
+    width: auto;
+    height: 25px;
+    color: white;
+    font-size: 14px;
+    font-weight: normal;
+    
+}
+
+
+figcaption{
+    
+    box-sizing: border-box;
+    position: static;
+    
+}
+
+
+
